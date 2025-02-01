@@ -14,7 +14,7 @@
     - The page should start with a `DOCTYPE` declaration and include the `<html>`, `<head>`, and `<body>` tags.  
 
   - **💡 Skills Covered:**  
-    - HTML structure  `<html>`, `<head>`,`<body>`
+    - HTML structure  
     - Embedding media  
 
 </details>
