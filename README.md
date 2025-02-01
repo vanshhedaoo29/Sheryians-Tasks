@@ -1,4 +1,4 @@
-# Sheryians Tasks  
+# Tasks  
 
 <details>  
   <summary><strong>🎯Project Exercise 1: Blog Website</strong></summary>  
