@@ -1,0 +1,68 @@
+body{
+    margin: 10px 25px;
+}
+
+.total{
+    background-color: whitesmoke;
+}
+
+.head{
+    background-color: rgb(239, 241, 244);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h1{
+    margin-left: 1%;
+    color: rgb(46, 46, 125);
+}
+
+.navbar{
+    background-color: rgb(97, 97, 235);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+}
+
+ul li a{
+    color: white;
+    text-decoration: none;
+    padding: 0px 20px;
+}
+
+ul li a:hover{
+    background-color: beige;
+    height: 100px;
+    color: black;
+}
+
+.first{
+    background-color: beige;
+    padding: 10px 10px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.pic{
+    padding-left: 30%;
+}
+
+.second{
+    background-color: blanchedalmond;
+    margin-top: 15px;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+
+.foot{
+    color: azure;
+    background-color: black;
+    padding: 1px 1px;
+    text-align: center;
+    margin-top: 20px;
+}
