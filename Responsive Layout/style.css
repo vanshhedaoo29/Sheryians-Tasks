@@ -69,6 +69,41 @@ main {
 }
 
 @media (min-width: 1020px) {
+  header {
+    display: flex;
+    height: 5rem;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    background-color: lightcyan;
+  }
+  header .logo {
+    font-size: 2.5rem;
+    color: black;
+    display: flex;
+    justify-content: left;
+  }
+  header nav {
+    display: flex;
+  }
+  header nav ul {
+    display: flex;
+    list-style-type: none;
+  }
+  header nav ul li a {
+    margin: 0 5px;
+    padding: 0px 19px;
+    text-decoration: none;
+  }
+  header nav .signin {
+    background-color: blue;
+    color: white;
+    padding: 5px 35px;
+    margin-left: 30%;
+    border-radius: 0.5rem;
+    display: flex;
+    flex-direction: row;
+  }
   main {
     padding: 3rem;
   }
